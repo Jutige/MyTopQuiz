@@ -82,7 +82,7 @@ public class GameActivity extends AppCompatActivity implements View.OnClickListe
             mScore = 0;
             mNumberOfQuestion = 3;
         }
-        
+
         mEnabledTouchEvents = true;
 
         System.out.println("Après génération des questions");
